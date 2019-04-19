@@ -17,8 +17,7 @@ export const LANGUAGES = {
   ru: "Russian",
   es: "Spanish",
   pl: "Polish",
-  ee: "Estonian",
-  vn: "Vietnamese"
+  ee: "Estonian"
 };
 
 export const loadLanguages = (initial, [language, setLanguage]) => {
